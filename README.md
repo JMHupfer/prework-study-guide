@@ -10,9 +10,7 @@ N/A
 
 ## Usage
 
-This prework study guide for the University of Denver coding bootcamp can be used to go over, in short detail, some notes for HTML, CSS, Git, and Javascript. Each section contains some basic notes from the prework for Git and the basic coding languages and will be refined throughout the course. Attached is also an image to be used as a metaphor for the importance of HTML, CSS, and JavaScript respectively.
-
-![CODING HOUSES](\assets\coding-houses.png)
+This prework study guide for the University of Denver coding bootcamp can be used to go over, in short detail, some notes for HTML, CSS, Git, and Javascript. Each section contains some basic notes from the prework for Git and the basic coding languages and will be refined throughout the course. Use the notes provided in this guide as a shortcut for future bootcamp projects and assignments.
 
 ## Credits
 
